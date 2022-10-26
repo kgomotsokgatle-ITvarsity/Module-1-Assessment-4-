@@ -1,0 +1,23 @@
+
+h1{
+    color: grey;
+}
+
+th{
+    font-weight: 1000;
+}
+
+table{
+    font-family: 'Times New Roman', Times, serif;
+    border-collapse: collapse;
+    border-width: 3px;
+    border-style: solid;
+    border-color: grey;
+}
+th{
+    font-weight: 1000;
+    background-color: grey;
+    color: white;
+}
+
+
